@@ -1,5 +1,9 @@
 # Capstone
 
+### Code Review 
+
+{% include video.html %}
+
 ### Enhancement One
 Work: [Link](https://stevenfowler.dev)
 
