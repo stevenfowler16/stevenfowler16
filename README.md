@@ -1,4 +1,10 @@
-# Capstone
+
+### Professional Self-Assessment
+
+
+The e-portfolio assignment was interesting to complete because it gives a good feel of what I feel comfortable completing and new areas for me to explore. I used GitHub for two out of three of these projects and made the METAR project open source for other to explore and riff off of. The biggest data structure and algorithms ones was also the METAR web app but purely because of the information that you receive and how you work with that information. I think the fantasy football will end up being the more complex of the three as time goes on and I continue to improve on the application from the initial database that I started with. I also went outside of my MSSQL/.NET/Web Components safety and will be implement Mongo, Express, Graph QL, and React with that application. There isn’t a ton of security in any of these projects and then only one that will end up with some type of security will be the fantasy football app so that users can login and view their leagues info. 
+
+My first item is my personal portfolio that I will be continuing to develop. It showcases a little bit of my quirkiness with some personal information and coloring. The second item is the METAR web app that receives data from a third source, and you can search on and view live METAR data as the stations report in. This one will be fun later I think because I want to get some designer help on this, and have the website change according to the flight data that you are looking at. The last is the easiest and not as fun to look at which is the Mongo DB. All these projects were deployed to my personal server and spun up as websites to access if possible. 
 
 ### Code Review 
 
