@@ -13,6 +13,8 @@ My first item is my personal portfolio that I will be continuing to develop. It 
 ### Enhancement One
 Work: [Link](https://stevenfowler.dev)
 
+Code: [Link](https://github.com/stevenfowler16/Portfolio)
+
 Narrative:
 
 This article is my personal portfolio that I started making about 5 months ago or so. I wanted a central landing page for my projects, and this is the start of that site.  This article was selected as it was a product that I wanted to finish and one that should start the expansion of my other artifacts display. I selected this one to display a few of the things I do but it is a simple site overall which is something I try and stick with in all my designs, keeping things simple. I finished up the back of the card specifically, the wording on the back, the logos, and the flip button. The card back is a bit of a nuisance and I think will need to be redesigned to make it more accessible. I covered both my objectives which were CS-499-02 and CS-499-04. I also got everything done that I wanted while keeping in mind that I will need to now iterate again and make some pretty big changes on version 2. My focus for my next iterations will be mobile design, accessibility, and simplifying things. 
